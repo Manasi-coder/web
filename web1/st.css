@@ -1,13 +1,13 @@
 body{
-	background-image: url(img1.jpg);
-	width: 90px;
-	background-size: 100%;
+  background-image: url(img1.jpg);
+  width: 90px;
+  background-size: 100%;
 
 }
 
 
 .left{
-	 position: absolute;
+   position: absolute;
   top: 40px;
   left: 30px
   margin:;
@@ -25,11 +25,11 @@ body{
 }
 
 h4.b{
-	text-transform: none;
-	text-indent: 1em;
+  text-transform: none;
+  text-indent: 1em;
 }
 .center{
-	position: absolute;
+  position: absolute;
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
@@ -41,12 +41,12 @@ h4.b{
 
   }
   hr .h{
-  	height: 4px;
+    height: 4px;
         background-color: #ccc;
         border: none;
   }
   .button{
-  	 background-color: black;
+     background-color: black;
   border: 2px solid white;
   color: white;
   padding: 14px 16px;
@@ -57,7 +57,7 @@ h4.b{
   margin: 4px 2px;
   cursor: pointer;
   }
-  	.footer {
+    .footer {
    position: fixed;
    left: 0;
    bottom: 0;
@@ -71,7 +71,7 @@ h4.b{
    background-size: 100%
 }
 .footer a{
-	 float: left;
+   float: left;
   color: white;
   text-align: center;
   padding: 12px;
@@ -85,14 +85,15 @@ h4.b{
   color: black;
 }
 #img{
-	float: right;
-	width: 40px;
-	padding-left: 15px;
-	margin: 9px;
+  float: right;
+  width: 40px;
+  padding-left: 15px;
+  margin: 9px;
 }
 @media(min-width: 750px)
 {
-	body{
-		background-repeat: no-repeat;
-	}
+  body{
+    
+  }
+  
 }
